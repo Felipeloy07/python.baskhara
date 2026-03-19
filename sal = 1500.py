@@ -38,6 +38,6 @@ n2 = 7
 # impar: resto da divisao por 2 != 0
 
 comp = (n1 % 2) != (n2 % 2)      # pariedade distintas 
-
+print ('paridade distintas:' , comp)
 
 
