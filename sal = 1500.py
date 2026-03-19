@@ -25,5 +25,11 @@ sal = 7500
 cond = 5250
 print("pode contratar?" , sal>= cond)
 
+#exercicio 3
+n = 10
+par = n % 2 == 0
+impar = n % 2 == 1
+print("é par:" , par) 
+
 
 
