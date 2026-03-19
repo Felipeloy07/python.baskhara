@@ -30,6 +30,14 @@ n = 10
 par = n % 2 == 0
 impar = n % 2 == 1
 print("é par:" , par) 
+# exercicio 4
+n1 = 10
+n2 = 7
+
+# par: resto da divisao por 2 = 0
+# impar: resto da divisao por 2 != 0
+
+comp = (n1 % 2) != (n2 % 2)      # pariedade distintas 
 
 
 
