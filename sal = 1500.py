@@ -20,4 +20,10 @@ print("foi aprovado" , r2)
 print("foi aprovado" , r3)
 
 
+#exercicio 2
+sal = 7500
+cond = 5250
+print("pode contratar?" , sal>= cond)
+
+
 
